@@ -29,10 +29,10 @@ Car-Rental-Company/
 ├── allreservationswindow.cpp / allreservationswindow.h / allreservationswindow.ui # All reservations window
 │
 ├── build/  
-│ ├── data.txt # Stores available cars  
-│ ├── reservations.txt # Stores reservation details  
-│ ├── icons/ # Icons for the UI  
-│ └── cars/ # Images of cars  
+│    ├── data.txt # Stores available cars  
+│    ├── reservations.txt # Stores reservation details  
+│    ├── icons/ # Icons for the UI  
+│    └── cars/ # Images of cars  
 │
 ├── LICENSE # License file  
 ├── README.md # Project documentation  
