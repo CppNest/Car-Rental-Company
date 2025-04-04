@@ -1,0 +1,20 @@
+BMW M4 Competition;Osobowy;500;4;Automatyczna;Posiada;10.2;m4.jpg
+Mazda RX-7;Sportowy;600;4;Manualna;5.4;250;rx7.jpg
+Toyota Corolla;Osobowy;300;5;Manualna;Nie posiada;5.5;corrolla.jpg
+Volkswagen Golf V;Osobowy;100;4;Manualna;Nie posiada;5;golf.jpg
+Mercedes S-Class;Osobowy;600;5;Automatyczna;Posiada;9;sklasa.jpg
+Dodge Durango SRT Hellcat;Osobowy;400;7;Automatyczna;Posiada;15.7;durango.jpg
+Honda Civic VIII R;Osobowy;200;5;Manualna;Nie posiada;10.7;civic.jpg
+Ford Mustang;Sportowy;750;4;Manualna;4.2;250;mustang.jpg
+Pagani Huayra;Sportowy;1500;2;Automatyczna;3;370;huarya.jpg
+Ferrari SF90 Stradale;Sportowy;1000;2;Automatyczna;2.5;340;sf90.jpg
+Koenigsegg Gemera;Sportowy;1800;4;Automatyczna;1.9;400;gemera.jpg
+Tesla Roadster;Elektryczny;800;2;Manualna;1000;1.5;roadster.jpg
+Rolls-Royce Spectre;Elektryczny;1300;4;Automatyczna;650;2;spectre.jpg
+Toyota Proace;Przewozowy;500;3;Manualna;1000;5;proace.jpg
+Iveco Daily;Przewozowy;750;5;Manualna;3000;15;daily.jpg
+Setra S500 ComfortClass;Przewozowy;1600;54;Automatyczna;1200;10;setra.jpg
+Lamborghini Aventador;Sportowy;1000;2;Automatyczna;2.9;350;aventador.jpg
+Porsche Taycan;Elektryczny;1200;5;Automatyczna;450;0.5;taycan.jpg
+Mclaren P1;Sportowy;900;2;Automatyczna;2.8;350;p1.jpg
+Opel Astra;Osobowy;350;7;Manualna;Posiada;5.7;astra.jpg
