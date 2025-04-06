@@ -15,28 +15,30 @@ Car-Rental-Company is a project designed to demonstrate the fundamentals of **C+
 
 ## 📂 Project Structure
 
+```plaintext
 Car-Rental-Company/
 │
-├── Car.cpp / Car.h # Base class for all car types
-├── ElectricCar.cpp / ElectricCar.h # Electric car implementation  
-├── PassengerCar.cpp / PassengerCar.h # Passenger car implementation  
-├── SportCar.cpp / SportCar.h # Sport car implementation  
-├── TruckCar.cpp / TruckCar.h # Truck car implementation  
-├── main.cpp # Application entry point  
-├── mainwindow.cpp / mainwindow.h / mainwindow.ui # Main window for car browsing  
-├── menuwindow.cpp / menuwindow.h / menuwindow.ui # Menu window  
-├── reservationwindow.cpp / reservationwindow.h / reservationwindow.ui # Reservation window  
-├── allreservationswindow.cpp / allreservationswindow.h / allreservationswindow.ui # All reservations window
+├── Car.cpp / Car.h                                                                   # Base class for all car types
+├── ElectricCar.cpp / ElectricCar.h                                                   # Electric car implementation  
+├── PassengerCar.cpp / PassengerCar.h                                                 # Passenger car implementation  
+├── SportCar.cpp / SportCar.h                                                         # Sport car implementation  
+├── TruckCar.cpp / TruckCar.h                                                         # Truck car implementation  
+├── main.cpp                                                                          # Application entry point  
+├── mainwindow.cpp / mainwindow.h / mainwindow.ui                                     # Main window for car browsing  
+├── menuwindow.cpp / menuwindow.h / menuwindow.ui                                     # Menu window  
+├── reservationwindow.cpp / reservationwindow.h / reservationwindow.ui                # Reservation window  
+├── allreservationswindow.cpp / allreservationswindow.h / allreservationswindow.ui    # All reservations window
 │
 ├── build/  
-│    ├── data.txt # Stores available cars  
-│    ├── reservations.txt # Stores reservation details  
-│    ├── icons/ # Icons for the UI  
-│    └── cars/ # Images of cars  
+│    ├── data.txt                                                                     # Stores available cars  
+│    ├── reservations.txt                                                             # Stores reservation details  
+│    ├── icons/                                                                       # Icons for the UI  
+│    └── cars/                                                                        # Images of cars  
 │
-├── LICENSE # License file  
-├── README.md # Project documentation  
-└── CarRentalCompany.pro # Qt project file
+├── LICENSE                                                                           # License file  
+├── README.md                                                                         # Project documentation  
+└── CarRentalCompany.pro                                                              # Qt project file
+```
 
 ---
 
